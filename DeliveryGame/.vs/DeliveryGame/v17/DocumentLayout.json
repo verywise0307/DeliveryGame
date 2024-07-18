@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajdwn\\Documents\\GitHub\\DeliveryGame\\DeliveryGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35E78C4-3FEF-BB61-4B9A-A5AFF5086D1E}|Assembly-CSharp.csproj|c:\\users\\ajdwn\\documents\\github\\deliverygame\\deliverygame\\assets\\gimmick\\scripts\\manhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35E78C4-3FEF-BB61-4B9A-A5AFF5086D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\gimmick\\scripts\\manhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35E78C4-3FEF-BB61-4B9A-A5AFF5086D1E}|Assembly-CSharp.csproj|c:\\users\\ajdwn\\documents\\github\\deliverygame\\deliverygame\\assets\\gimmick\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35E78C4-3FEF-BB61-4B9A-A5AFF5086D1E}|Assembly-CSharp.csproj|solutionrelative:assets\\gimmick\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\ajdwn\\Documents\\GitHub\\DeliveryGame\\DeliveryGame\\Assets\\Gimmick\\Scripts\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Gimmick\\Scripts\\Box.cs",
+              "ToolTip": "C:\\Users\\ajdwn\\Documents\\GitHub\\DeliveryGame\\DeliveryGame\\Assets\\Gimmick\\Scripts\\Box.cs",
+              "RelativeToolTip": "Assets\\Gimmick\\Scripts\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:06:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manhole.cs",
+              "DocumentMoniker": "C:\\Users\\ajdwn\\Documents\\GitHub\\DeliveryGame\\DeliveryGame\\Assets\\Gimmick\\Scripts\\Manhole.cs",
+              "RelativeDocumentMoniker": "Assets\\Gimmick\\Scripts\\Manhole.cs",
+              "ToolTip": "C:\\Users\\ajdwn\\Documents\\GitHub\\DeliveryGame\\DeliveryGame\\Assets\\Gimmick\\Scripts\\Manhole.cs",
+              "RelativeToolTip": "Assets\\Gimmick\\Scripts\\Manhole.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:56:10.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
