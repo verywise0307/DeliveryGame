@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< Updated upstream
-- path: Assets/UI/Scenes/StartScene.unity
-=======
-- path: Assets/UI/Scenes/HowToPlay_1.unity
->>>>>>> Stashed changes
+- path: Assets/Gimmick/G_Sample.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
