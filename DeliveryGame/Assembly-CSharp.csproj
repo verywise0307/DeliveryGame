@@ -61,8 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Gimmick\Scripts\puddle.cs" />
-    <Compile Include="Assets\Gimmick\Scripts\Box.cs" />
+    <Compile Include="Assets\UI\Scripts\HowToPlaySceneChange.cs" />
+    <Compile Include="Assets\mob\PCmove.cs" />
+    <Compile Include="Assets\mob\hideboxcontroller.cs" />
+    <Compile Include="Assets\Gimmick\Scripts\notice.cs" />
     <Compile Include="Assets\Gimmick\Scripts\Manhole.cs" />
+    <Compile Include="Assets\mob\mobmove.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
