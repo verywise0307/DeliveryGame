@@ -372,9 +372,13 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Unity/Unity Hub/2022.3.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/Unity Hub/2022.3.37f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Gimmick/Scripts/Box.cs"
 "Assets/Gimmick/Scripts/Manhole.cs"
+"Assets/Gimmick/Scripts/notice.cs"
 "Assets/Gimmick/Scripts/puddle.cs"
+"Assets/mob/hideboxcontroller.cs"
+"Assets/mob/mobmove.cs"
+"Assets/mob/PCmove.cs"
+"Assets/UI/Scripts/HowToPlaySceneChange.cs"
 -langversion:9.0
 /deterministic
 /optimize-
